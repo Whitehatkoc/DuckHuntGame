@@ -1,6 +1,6 @@
 # DuckHuntGameInJavaFX
 
-In the last assignment of the spring 2023 semester of my department, I coded a 6-level duck shooting game in javaFX.
+In the last assignment of the spring 2023 semester of my department, I coded a 6-level duck shooting game in javaFX. You can review the pdf of the assignment named BBM104_S23_PA4_v1 prepared by my teachers.
 
 Please compil at src/ 
 
